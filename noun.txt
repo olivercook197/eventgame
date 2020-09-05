@@ -1,0 +1,26 @@
+cat tags animal all
+dog tags animal all
+cow tags animal edible farmed all
+chicken tags animal edible farmed all
+crow tags animal all
+rat tags animal all
+sheep tags animal edible farmed plural all
+goat tags animal edible farmed all
+bull tags animal edible farmed all
+horse tags animal farmed all
+pig tags animal edible farmed all
+wolf tags animal notplural wolves # all
+salmon tags animal edible farmed plural all
+pheasant tags animal edible all
+goose tags animal edible notplural geese # all
+turkey tags animal edible farmed all
+pigeon tags animal edible all
+fox tags animal notplural foxes # all
+rabbit tags animal edible all
+mouse tags animal notplural mice # all
+ferret tags animal all
+son tags relationship all
+daughter tags relationship all
+wife tags relationship implural all
+child tags relationship notplural children # all
+friend tags relationship all
